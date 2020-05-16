@@ -24,5 +24,10 @@ namespace Primera_venta_2_20202
         {
             InitializeComponent();
         }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
